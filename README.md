@@ -1,0 +1,53 @@
+# Framework CA
+
+![image](https://github.com/davemarong/JTI-Online-Course/blob/dev/images/jti%20frontpage.png)
+
+This website was created as a school project.
+
+## Description
+
+The requirements were:
+
+- Connect to an api
+- User log in and admin login
+- A detail page with data from url parameter
+
+## Built With
+
+- [React.js](https://reactjs.org/)
+- [Strapi](https://strapi.io/)
+- [MUI](https://mui.com/)
+
+## Getting Started
+
+### Installing
+
+This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/davemarong/JTI-Online-Course.git
+```
+
+2. Install the dependencies:
+
+```
+npm install
+```
+
+### Running
+
+```bash
+npm start
+```
+
+## Contributing
+
+You are more then welcome to contribute to this project. Create a pull request, and I will check it out as soon as possible.
+
+## Contact
+
+This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
+
+[My LinkedIn page](https://www.linkedin.com/in/davekjellmarong/)
