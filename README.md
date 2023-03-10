@@ -1,6 +1,6 @@
 # Framework CA
 
-![image](https://github.com/davemarong/JTI-Online-Course/blob/dev/images/jti%20frontpage.png)
+![image](https://github.com/davemarong/frameworkCaFrontEnd/blob/dev/images/Screenshot%202023-03-10%20at%2021.29.43.png)
 
 This website was created as a school project.
 
